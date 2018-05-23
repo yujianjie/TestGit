@@ -1,3 +1,3 @@
 ﻿Hello World
-just test master stash
+just test master
 
